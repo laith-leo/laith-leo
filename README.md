@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @laith-leo
-- 👀 I’m interested in life
-- 🌱 I’m currently learning life
-- 💞️ I’m looking to collaborate on life
+- 👀 I’m interested in k8s
+- 🌱 I’m currently learning k8s
+- 💞️ I’m looking to collaborate on k8s
 - 📫 How to reach me laith@linux.com
 
 <!---
